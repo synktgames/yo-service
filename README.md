@@ -1,4 +1,4 @@
-# generator-servicelair [![Build Status](https://secure.travis-ci.org/elrikdante/generator-servicelair.png?branch=master)](https://travis-ci.org/elrikdante/generator-servicelair)
+# yo-service 
 
 > [Yeoman](http://yeoman.io) generator
 
@@ -9,7 +9,8 @@ Yeoman travels light. He didn't pack any generators when he moved in. You can th
 To install generator-servicelair from npm, run:
 
 ```bash
-npm install -g generator-servicelair
+git clone git@github.com/synktgames/yo-service.git
+npm install -g yo-service
 ```
 
 Finally, initiate the generator:
